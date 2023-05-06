@@ -1,12 +1,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Ibralenko's+Github+Profile..)](https://git.io/typing-svg)
+### Hi there 👋
 
  <p align="center">
- ### Hi there 👋
-
 I'm Julia and I'm a Frontend developer
-
-<div id="header" align="start">
+<div id="header" align="center">
   <img align="center" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47q9kzwxbf0uk1vgevo6rq8oe9f14dftn1whw9df12&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
 </div>
 </p>
