@@ -6,7 +6,7 @@
 I'm Julia and I'm a Frontend developer
 
 <div id="header" align="start">
-  <img src=["[https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47l27vsn7hyv16z9vnjkb2zewqdvydl96vv5becv46&rid=giphy.gif&ct=g](https://i.yapx.cc/VakAE.gif)](https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47q9kzwxbf0uk1vgevo6rq8oe9f14dftn1whw9df12&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="200"/>
+  <img src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47l27vsn7hyv16z9vnjkb2zewqdvydl96vv5becv46&rid=giphy.gif&ct=g](https://i.yapx.cc/VakAE.gif)](https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47q9kzwxbf0uk1vgevo6rq8oe9f14dftn1whw9df12&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="200"/>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
