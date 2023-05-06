@@ -1,8 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Ibralenko's+Github+Profile..)](https://git.io/typing-svg)
 
-### Hi there 👋
  <p align="center">
+ ### Hi there 👋
+
 I'm Julia and I'm a Frontend developer
 
 <div id="header" align="start">
