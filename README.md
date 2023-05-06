@@ -21,7 +21,7 @@ I'm Julia and I'm a Frontend developer
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ibralenko&theme=dark&background=000000)](https://git.io/streak-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ibralenko)](https://git.io/streak-stats)
+
 
 
 <!--
