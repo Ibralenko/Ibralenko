@@ -2,6 +2,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Ibralenko's+Github+Profile..)](https://git.io/typing-svg)
 
 ### Hi there 👋
+
+I'm Julia and I'm a Frontend developer from Moscow👩🏽‍💻
+
+<div id="header" align="start">
+  <img src="[https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47l27vsn7hyv16z9vnjkb2zewqdvydl96vv5becv46&rid=giphy.gif&ct=g](https://i.yapx.cc/VakAE.gif)" width="200"/>
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Ibralenko/Ibralenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
