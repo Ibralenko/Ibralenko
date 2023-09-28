@@ -7,6 +7,19 @@
 <div id="header" align="center">
   <img align="center" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47q9kzwxbf0uk1vgevo6rq8oe9f14dftn1whw9df12&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
 </div>
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/Juliaibralenko">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NatiKozy&color=blueviolet" alt=""/>
+</div>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Julia and I'm a Frontend developer</h1>
 
 <div align="center">
