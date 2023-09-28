@@ -8,7 +8,7 @@
   <img align="center" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47q9kzwxbf0uk1vgevo6rq8oe9f14dftn1whw9df12&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://ru.linkedin.com/in/julia-pavlenko-692b9b274">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/Juliaibralenko">
