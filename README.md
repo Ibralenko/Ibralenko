@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" title="Scss" alt="Scss" width="60" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
+
 <div align="center">
 
 ### :fire: My Stats :
